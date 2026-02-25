@@ -1,16 +1,0 @@
-
-_
-java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
-K
-java:S3252H"5Use static access with "java.awt.Frame" for "NORMAL".(Ê¹ƒ‡
-S
-java:S3252V"8Use static access with "java.awt.Frame" for "ICONIFIED".(º¯‚Ğıÿÿÿÿ
-P	java:S125W"<This block of commented-out lines of code should be removed.(ÈÃ‚o
-`
-java:S3252X"KUse static access with "java.awt.event.InputEvent" for "BUTTON1_DOWN_MASK".(Éãù3
-f
-java:S3252Y"KUse static access with "java.awt.event.InputEvent" for "BUTTON1_DOWN_MASK".(¹ù¾Äşÿÿÿÿ
-K
-java:S3252["5Use static access with "java.awt.Frame" for "NORMAL".(Ê¹ƒ‡
-L
-java:S1128"6Remove this unused import 'java.awt.event.InputEvent'.(öï‚—
